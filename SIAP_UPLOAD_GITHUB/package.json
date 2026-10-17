@@ -1,0 +1,9 @@
+{
+  "name": "tatadana",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TataDana — Aplikasi Manajemen Keuangan Pribadi SaaS Indonesia terintegrasi Telegram Bot",
+  "scripts": {
+    "build": "echo 'TataDana static app ready'"
+  }
+}
